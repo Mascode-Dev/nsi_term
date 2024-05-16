@@ -1,2 +1,2 @@
 # nsi_term
-Tout mes exercices d'NSI en Terminale
+Tous mes exercices d'NSI en Terminale
